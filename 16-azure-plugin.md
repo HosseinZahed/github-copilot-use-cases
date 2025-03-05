@@ -1,0 +1,3 @@
+- Login to an Azure account
+- Type @azure in the Copilot chat
+- Ask your questions about different Azure resources

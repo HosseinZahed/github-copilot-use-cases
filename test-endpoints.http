@@ -1,0 +1,31 @@
+### Health Check
+GET http://localhost:8080/
+
+### Get All Items
+GET http://localhost:8080/items
+
+### Get Item by ID
+GET http://localhost:8080/items/1
+
+### Create a New Item
+POST http://localhost:8080/items
+Content-Type: application/json
+
+{
+  "id": 11,
+  "name": "Item 11",
+  "description": "A newly created item."
+}
+
+### Update an Existing Item
+PUT http://localhost:8080/items/1
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "Updated Item 1",
+  "description": "An updated description for item 1."
+}
+
+### Delete an Item
+DELETE http://localhost:8080/items/1
