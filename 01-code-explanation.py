@@ -1,3 +1,4 @@
+# Piece of ambiguous and vague code
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -45,3 +46,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# Explain the code in detail
