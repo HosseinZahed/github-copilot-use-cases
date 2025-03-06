@@ -1,1 +1,1 @@
-Where is the function that calculates the item price?
+Where is the method that calculates the price of an item?

@@ -1,3 +1,5 @@
+### Using REST Client Extension for Visual Studio Code
+
 ### Health Check
 GET http://localhost:8080/
 
