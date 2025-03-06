@@ -58,8 +58,8 @@
 
 💻 **Terminal Command Suggestions:** It can suggest terminal commands based on the context of the project, making it easier to manage the development environment.
 
-### Copilot Edit
-📝 Multi-file modifications
+### Copilot Edits
+📝 AI-powered code suggestions and improvements directly within your editor.
 
 ### Extensions
 🛠️ Use extensions by typing @  
