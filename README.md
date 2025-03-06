@@ -1,8 +1,8 @@
 ## GitHub Copilot Use Cases
 
 ### Environment
-- 💬 Chat Window
-- ✍️ Inline Chat
+- 💬 Chat Window (Ctrl + Alt + i)
+- ✍️ Inline Chat (Ctrl + i)
 - 🧠 Models
 - 🗣️ Speak (VS Code Speech Extension)
 - ✏️ Edits
