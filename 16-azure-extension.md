@@ -4,3 +4,6 @@
 - Accounts (left nav bar) => Select the logged in account => Manage Trusted Extensions => Select the right account
 - Type @azure in the Copilot chat
 - Ask your questions about different Azure resources
+
+### Note:
+Run it in the Chat window
