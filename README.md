@@ -62,7 +62,7 @@
 📝 AI-powered code suggestions and improvements directly within your editor.
 
 ### Copilot Agent
-📝 New agent mode is capable of iterating on its own code, recognizing errors, and fixing them automatically. It can suggest terminal commands and ask you to execute them. It also analyzes run-time errors with self-healing capabilities.
+🤖 New agent mode is capable of iterating on its own code, recognizing errors, and fixing them automatically. It can suggest terminal commands and ask you to execute them. It also analyzes run-time errors with self-healing capabilities.
 
 ### Extensions
 🛠️ Use extensions by typing @  
