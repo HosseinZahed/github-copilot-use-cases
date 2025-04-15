@@ -16,4 +16,4 @@ def calculate_unit_price(total_price, quantity):
         raise ValueError("Quantity cannot be zero.")
     return total_price / quantity
 
-# Write unit tests for the function using pytest
+# Prompt: Write unit tests for the function using pytest

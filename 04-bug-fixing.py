@@ -9,7 +9,7 @@ print(buggy_function("2", "3")) # 23
 print(buggy_function("2", 3)) # 23
 print(buggy_function(2, 3.0)) # 5.0
 
-# Fix the buggy function
+# Prompt in Ask: /fix
 
 
 

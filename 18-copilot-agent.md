@@ -1,0 +1,7 @@
+- Create an html page listing exactly 12 random european countries with their population size and flag as bootstrap cards. 
+- It should be a self-contained file with a proper header and title. 
+- Show 4 countries in each row.
+- Cards should be of the same height.
+- Provide a link for each country to read more on Wikipedia.
+- Consider proper paddings and margins.
+- The file name should be random-countries.html

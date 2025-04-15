@@ -47,4 +47,5 @@ def main():
 if __name__ == '__main__':
     main()
 
-# Explain the code in detail
+
+# Prompt in Ask: /explain

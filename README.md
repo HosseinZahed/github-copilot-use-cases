@@ -5,8 +5,8 @@
 ✍️ Inline Chat (Ctrl + i)  
 🧠 Models  
 🗣️ Speak (VS Code Speech Extension)  
-✏️ Edits  
-🤖 Agents (Preview)  
+✏️ Edit 
+🤖 Agent  
 
 ### 3S Principles
 🟢 Simple  
@@ -58,8 +58,11 @@
 
 💻 **Terminal Command Suggestions:** It can suggest terminal commands based on the context of the project, making it easier to manage the development environment.
 
-### Copilot Edits
+### Copilot Edit
 📝 AI-powered code suggestions and improvements directly within your editor.
+
+### Copilot Agent
+📝 New agent mode is capable of iterating on its own code, recognizing errors, and fixing them automatically. It can suggest terminal commands and ask you to execute them. It also analyzes run-time errors with self-healing capabilities.
 
 ### Extensions
 🛠️ Use extensions by typing @  

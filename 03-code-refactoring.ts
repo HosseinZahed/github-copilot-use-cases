@@ -32,4 +32,4 @@ function sumPositiveNumbers(a: number, b: number, c: number): number {
     }
 }
 
-// Refactor the code into a more readable and efficient version.
+// Prompt in Ask: Refactor the code into a more readable and efficient version.

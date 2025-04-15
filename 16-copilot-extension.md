@@ -5,5 +5,15 @@
 - Type @azure in the Copilot chat
 - Ask your questions about different Azure resources
 
-### Note:
-Run it in the Chat window
+### Prompt 1 in Ask:
+@azure list all resource groups
+
+### Prompt 2 in Ask:
+@azure list all resources under rg-ai-demo-hz
+
+### Check other extensions like:
+@docker
+@terminal
+@remote-ssh
+[GitHub Marketplace](https://github.com/marketplace?type=apps&copilot_app=true)
+

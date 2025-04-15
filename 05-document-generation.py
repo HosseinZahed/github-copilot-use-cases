@@ -19,4 +19,4 @@ print content
 config = parse_ini(content)
 print config.sections()
 
-# Documenting and explain the Python 2 code in preparation to modernize it into Python 3 code. 
+# Prompt: Document and explain the Python 2 code in preparation to modernize it into Python 3 code. 

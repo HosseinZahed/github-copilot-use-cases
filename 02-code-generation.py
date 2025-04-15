@@ -3,7 +3,7 @@ from pydantic import BaseModel
 from typing import List, Optional
 import uvicorn
 
-# Prompt:
+# Prompt in Ask/Edit/Agent:
 # Generate a fast api application with the following endpoints:
 # - Get / : Show a health check message.
 # - GET /items: Retrieve a list of all items.
