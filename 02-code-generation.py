@@ -3,20 +3,21 @@ from pydantic import BaseModel
 from typing import List, Optional
 import uvicorn
 
-# Prompt in Ask/Edit/Agent:
-# Generate a fast api application with the following endpoints:
-# - Get / : Show a health check message.
-# - GET /items: Retrieve a list of all items.
-# - GET /items/{item_id}: Retrieve an item by its ID.
-# - POST /items: Create a new item.
-# - PUT /items/{item_id}: Update an existing item by its ID.
+""" Prompt in Ask/Edit/Agent:
+Generate a fast api application with the following endpoints:
+- Get / : Show a health check message.
+- GET /items: Retrieve a list of all items.
+- GET /items/{item_id}: Retrieve an item by its ID.
+- POST /items: Create a new item.
+- PUT /items/{item_id}: Update an existing item by its ID.
 
-# The application should use a simple in-memory data store (a list) to manage the items with 10 creative sample items.
-# The item should have an ID, a name, and a description.
-# Use Pydantic for data validation and serialization.
-# Include appropriate status codes and error handling.
-# Use the FastAPI framework for building the API.
-# Run the application using uvicorn on port 8080.
+The application should use a simple in-memory data store (a list) to manage the items with 10 creative sample items.
+The item should have an ID, a name, and a description.
+Use Pydantic for data validation and serialization.
+Include appropriate status codes and error handling.
+Use the FastAPI framework for building the API.
+Run the application using uvicorn on port 8080.
+"""
 
 app = FastAPI()
 

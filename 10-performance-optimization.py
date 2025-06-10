@@ -8,7 +8,7 @@ def sum_of_squares_not_optimized(n):
 # Example usage:
 print(sum_of_squares_not_optimized(1000000))  # Output: 333332833333500000
 
-# Prompt 1: What's the big-O complexity of the above function?
+# Prompt 1: What's the big-O notation of the function?
 
-# Prompt2: Optimized the above function
+# Prompt2: Optimize the function
 
